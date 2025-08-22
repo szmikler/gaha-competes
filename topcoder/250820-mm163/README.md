@@ -54,6 +54,6 @@ For the simulation, I copied code from the tester and translated it to C++. I re
 
 **Beam visualization**
 
-In the GIF, you can see one iteration of the beam search.
+In the GIF, you can see the beam search in action.
 
 ![visualization](visualization.gif)
