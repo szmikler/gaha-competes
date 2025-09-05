@@ -8,3 +8,7 @@ I am currently active on:
 
 
 *— gaha*
+
+## Featured Competitions
+* [TopCoder MM163](https://github.com/szmikler/gaha-competes/tree/main/topcoder/250820-mm163)
+* [CodinGame Summer Challenge 2025](https://github.com/szmikler/gaha-competes/tree/main/codingame/250628-summer-challenge-2025)
