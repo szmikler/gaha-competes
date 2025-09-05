@@ -2,7 +2,7 @@
 
 [TopCoder Challenge Page](https://www.topcoder.com/challenges/d6afa51e-e32b-4776-90ce-218cf65031d4)
 
-Final Position: **#???** 
+Final Position: **#1** 
 
 ![alt text](game.png)
 
@@ -57,3 +57,7 @@ For the simulation, I copied code from the tester and translated it to C++. I re
 In the GIF, you can see the beam search in action.
 
 ![visualization](visualization.gif)
+
+## Leaderboard
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/47d6a1b4-c72c-4907-88d5-61a52cc130f1" />
+
