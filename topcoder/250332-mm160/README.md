@@ -8,7 +8,7 @@ Final Position: **#2**
 
 ## Approach
 
-I run a beam search, separate for each harvester. I assume new slimes won't spawn. I hardcode width to 32 and depth between [8, 16] depending on H. I implemented sanity checks to speed things up if I am going overtime but - according to my testing - it should not happen. Before starting the search, harvesters get their special targets assigned. Special targets are: slimes very close to depots or slimes that are blocking other harvesters' return routes. Those targets are used in my score function. The main part of my score function is the gathered slime divided by the distance to the closest depot. After selecting the best moves according to the BS, I repeat the BS once again, but now all moves are known, so i-th harvester knows how all other harvesters moved.
+I run a beam search, separate for each harvester. I assume new slimes won't spawn. I hardcode width to 32 and depth between [8, 16] depending on H. I implemented sanity checks to speed things up if I am going overtime but - according to my testing - it should not happen. Before starting the search, harvesters get their special targets assigned. Special targets are: slimes very close to depots or slimes that are blocking other harvesters' return routes. These targets are used in my score function. The main part of my score function is the gathered slime divided by the distance to the closest depot. After selecting the best moves according to the BS, I repeat the BS once again, but now all moves are known, so i-th harvester knows how all other harvesters moved.
 
 Also, every turn (to determine the order) I sort harvesters by either:
 - score from depth-1 search
