@@ -2,7 +2,7 @@
 
 [CodinGame Leaderboard Link](https://www.codingame.com/contests/summer-challenge-2025-coderpad-play/leaderboard/global)
 
-Final Position: **#4** 
+Final Position: **#4** (out of 3827)
 
 ![alt text](game.png)
 
