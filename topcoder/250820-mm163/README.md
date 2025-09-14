@@ -2,7 +2,7 @@
 
 [TopCoder Challenge Page](https://www.topcoder.com/challenges/d6afa51e-e32b-4776-90ce-218cf65031d4)
 
-Final Position: **#1** 
+Final Position: **#1** (out of 44)
 
 ![alt text](game.png)
 
