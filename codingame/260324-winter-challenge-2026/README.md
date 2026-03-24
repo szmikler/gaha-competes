@@ -2,7 +2,7 @@
 
 [CodinGame Leaderboard Link](https://www.codingame.com/contests/winter-challenge-2026-exotec/leaderboard/global)
 
-Final Position: **#8**
+Final Position: **#8** (out of 2382)
 
 ## Approach
 
