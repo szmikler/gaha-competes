@@ -2,7 +2,7 @@
 
 [CodinGame Leaderboard Link](https://www.codingame.com/contests/fall-challenge-2023/leaderboard/global)
 
-Final Position: **#10** 
+Final Position: **#10** (out of 4669)
 
 ![alt text](game.png)
 
