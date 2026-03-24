@@ -2,7 +2,7 @@
 
 [CodinGame Leaderboard Link](https://www.codingame.com/contests/summer-challenge-2024-olymbits/leaderboard/global)
 
-Final Position: **#7** 
+Final Position: **#7** (out of 5237)
 
 ![alt text](game.png)
 
